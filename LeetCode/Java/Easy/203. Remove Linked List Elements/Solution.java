@@ -16,8 +16,9 @@ class Solution {
         while (dummy != null && dummy.next != null ){ 
             if(dummy.next.val == val){
                 dummy.next = dummy.next.next;
-                dummy = dummy.next;
+                
             }
+            dummy = dummy.next;
         }
 
         return ans.next;     
