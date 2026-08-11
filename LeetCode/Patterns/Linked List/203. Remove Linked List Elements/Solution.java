@@ -13,7 +13,7 @@ class Solution {
        ListNode ans = new ListNode(0, head);
         ListNode dummy = ans;
 
-        while (dummy != null&&) {
+        while (dummy != null) {
             while (dummy.next != null && dummy.next.val == val) {
                 dummy.next = dummy.next.next;
             }
