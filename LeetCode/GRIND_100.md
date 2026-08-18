@@ -3,7 +3,7 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 10 / 100 (10.0%)
+- **Completed:** 11 / 100 (11.0%)
 
 ---
 
@@ -52,7 +52,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [x] [Add Two Numbers](./Java/Medium/2. Add Two Numbers/)
 - [x] [Copy List with Random Pointer](./Java/Medium/138. Copy List with Random Pointer/)
 - [ ] LRU Cache
-- [ ] Sort List
+- [x] [Sort List](./Java/Medium/148. Sort List/)
 - [x] [Merge k Sorted Lists](./Java/Hard/23. Merge k Sorted Lists/)
 
 ### 📂 Binary Tree & BST
