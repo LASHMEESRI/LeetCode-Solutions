@@ -8,7 +8,7 @@
 Linked List, Sorting
 
 ### 🚀 Performance
-- **Runtime:** 19 ms
+- **Runtime:** 21 ms
 - **Memory:** 46.2 MB
 
 ---
