@@ -8,8 +8,8 @@
 Linked List, Math, Stack
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 1 ms
+- **Memory:** 46.2 MB
 
 ---
 
